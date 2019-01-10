@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    display: flex;
+    font-family: helvetica;
+}
+
+h1{
+    color: #333;
+}
+.flexbox1{
+    background-color: #333;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+.flexbox2{
+    background-color: #ddd;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#accountListContainer li{
+    display: block;
+    font-size: 1.3em;
+}
+
+form{
+   
+}
+
+label{
+    font-size: 1.4em;
+    font-family: helvetica;
+    color: #ddd;
+    
+}
+
+input{
+    width: 15em;
+    height: 2em;
+    font-size: 1.4em;
+    padding-left: 0.5em;
+    background-color: #ddd;
+    margin: 10px;
+}
+
+select, option{
+    margin-top: 2em;
+    font-size: 1.5em;
+}
+
+button{
+    font-size: 1.5em;
+}
