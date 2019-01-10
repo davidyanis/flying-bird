@@ -1,7 +1,5 @@
 # A bird that can fly
 ```
-- Demo link coming soon
++ https://davidyanis.github.io/flying-bird/
 ```
 
-[test] 
-https://davidyanis.github.io/flying-bird/
